@@ -7,3 +7,10 @@ function myfunction() {
 function myanother(){
 document.write(5+4);
 }
+function printing(){
+    window.print();
+}
+function myanother1(){
+    let carname="BMW";
+    document.getElementById("a").innerHTML=carname;
+}
